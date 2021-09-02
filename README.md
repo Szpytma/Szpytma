@@ -5,3 +5,5 @@
 
 ![Szpytma's GitHub stats](https://github-readme-stats.vercel.app/api?username=szpytma&show_icons=true&theme=radical)
 
+[![Top Szpytma](https://github-readme-stats.vercel.app/api/top-langs/?username=Szpytma&layout=compact)](https://github.com/Szpytma)
+

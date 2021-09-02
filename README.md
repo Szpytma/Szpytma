@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Pawel and I'm a begginer Java programmer.
 - 👀 I’m interested in any for possibilities to start a career in the software industry where I’ll get an opportunity to expand my knowledge
-- 🌱 I’m currently preparing myself for taking an exam for Java SE Programmer Certification

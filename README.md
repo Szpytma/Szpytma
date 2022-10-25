@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szpytma&label=Profile%20views&color=0e75b6&style=flat" alt="szpytma" /> </p>
 
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Szpytma?tab=repositories)
+- 👨‍💻 All of my projects are linked below and available on my [Github Repositories](https://github.com/Szpytma?tab=repositories)
 
 - 📫 How to reach me **szpytmapawel@hotmail.com**
 

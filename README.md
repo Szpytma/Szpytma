@@ -28,5 +28,6 @@
   - [Daily Journal](https://limitless-sands-76895.herokuapp.com/)
   - [TinDog](https://szpytma.github.io/TinDog/)
   - [Keeper-App](https://szpytma-keeper-app.netlify.app/)
-  - [Bankist-App](https://szpytma.github.io/Bankist-App/)
+  - [Bankist-App](https://bankist-app-szpytma.vercel.app/)
+  - [Mapty]
   - ...

@@ -19,8 +19,8 @@
 
   - [Mapty](https://mapty-ashy.vercel.app/)
   - [Bankist-App](https://bankist-app-szpytma.vercel.app/)
-  - [ToDoList](https://szpytma-todolist-v1.herokuapp.com/)
-  - [Daily Journal](https://limitless-sands-76895.herokuapp.com/)
+  - [ToDoList](https://github.com/Szpytma/todolist-v1)
+  - [Daily Journal](https://github.com/Szpytma/Daily-Journal)
   - [TinDog](https://szpytma.github.io/TinDog/)
   - [Keeper-App](https://szpytma-keeper-app.netlify.app/)
   - ...

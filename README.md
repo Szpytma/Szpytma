@@ -19,6 +19,7 @@
   - [POVMAZE](https://povmaze.netlify.app/)
   - [NC-Games](https://szpytma-nc-games.netlify.app/)
   - [Expense-tracker](https://react-app-expense-tracker.netlify.app/)
+  - [React-eats](https://react-eats.netlify.app/)
   - [Forkify](https://forkify-szp.netlify.app/)
   - [Mapty](https://mapty-ashy.vercel.app/)
   - [Bankist-App](https://bankist-app-szpytma.vercel.app/)

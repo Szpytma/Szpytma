@@ -21,9 +21,10 @@
 |---|---|---|
 |[POVMAZE](https://povmaze.netlify.app/)| [React-eats](https://react-eats.netlify.app/) | [NC-Games-API](https://nc-games-rkbx.onrender.com/)
 |[NC-Games](https://szpytma-nc-games.netlify.app/)| [Mapty](https://mapty-ashy.vercel.app/)| 
-|[Expense-tracker](https://react-app-expense-tracker.netlify.app/)| [Bankist-App](https://bankist-app-szpytma.vercel.app/)
 |[Forkify](https://forkify-szp.netlify.app/)| [Keeper-App](https://szpytma-keeper-app.netlify.app/)
-| |[TinDog](https://szpytma.github.io/TinDog/)
+| | [Expense-tracker](https://react-app-expense-tracker.netlify.app/)
+| | [Bankist-App](https://bankist-app-szpytma.vercel.app/)
+| | [TinDog](https://szpytma.github.io/TinDog/)
 | | [Pig Game](https://szpytma.github.io/Pig-Game) 
 | | [Drum Kit](https://szpytma.github.io/drumKit) 
 | | [Guess my Number](https://guess-my-number-mate.netlify.app) 

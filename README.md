@@ -22,4 +22,4 @@
 |[NC-Games-API](https://nc-games-rkbx.onrender.com/)| [Mapty](https://mapty-ashy.vercel.app/)| [Forkify](https://forkify-szp.netlify.app/)
 |[Keeper-App](https://szpytma-keeper-app.netlify.app/)| [Expense-tracker](https://react-app-expense-tracker.netlify.app/)| [Bankist-App](https://bankist-app-szpytma.vercel.app/)
 |[TinDog](https://szpytma.github.io/TinDog/) | [Pig Game](https://szpytma.github.io/Pig-Game) | [Drum Kit](https://szpytma.github.io/drumKit) 
-| [Guess my Number](https://guess-my-number-mate.netlify.app)  | [Simon-Game](https://szpytma.github.io/Simon-Game)  | [DiceGame](https://szpytma.github.io/DiceGame/)
+| [Guess my Number](https://guess-my-number-mate.netlify.app)  | [Simon-Game](https://szpytma.github.io/Simon-Game)  |

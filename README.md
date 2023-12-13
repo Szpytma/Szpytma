@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Pawel
-### A Junior Web Developer based in London.
+### A Junior Web Developer based in London working at OpusDatum.
 
 ![Profile views](https://komarev.com/ghpvc/?username=szpytma&label=Profile%20views&color=0e75b6&style=flat)
 
